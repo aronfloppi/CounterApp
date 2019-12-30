@@ -1,2 +1,0 @@
-# CounterApp
-Created with CodeSandbox
